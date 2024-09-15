@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The research data and Python scripts in this repository are a snapshot of the data and algorithms
 used in the research reported on in the paper 
-[A Data-Driven Optimization Framework for Static Rebalancing Operations in Bike Sharing Systems](https://doi.org/10.1287/ijoc.2021.0112) by Junming Liu, Weiwei Chen, and Leilei Sun. 
+[A Data-Driven Optimization Framework for Static Rebalancing Operations in Bike Sharing Systems](https://doi.org/10.1287/ijoc.2022.0182) by Junming Liu, Weiwei Chen, and Leilei Sun. 
 
 ## Cite
 
