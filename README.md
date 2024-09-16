@@ -9,6 +9,8 @@ The research data and Python scripts in this repository are a snapshot of the da
 used in the research reported on in the paper 
 [A Data-Driven Optimization Framework for Static Rebalancing Operations in Bike Sharing Systems](https://doi.org/10.1287/ijoc.2022.0182) by Junming Liu, Weiwei Chen, and Leilei Sun. 
 
+**Important: This code is being developed on an on-going basis at [https://github.com/liujm8/IJOC-Bike](https://github.com/liujm8/IJOC-Bike). Please go there if you would like to get a more recent version or would like support**.
+
 ## Cite
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
