@@ -22,7 +22,7 @@ Below is the BibTex for citing this version of the code.
 
 ```
 @article{liu2024ijoc,
-  author =        {Junming Liu and and Weiwei Chen and Leilei Sun},
+  author =        {Junming Liu and Weiwei Chen and Leilei Sun},
   publisher =     {INFORMS Journal on Computing},
   title =         {A Data-Driven Optimization Framework for Static Rebalancing Operations in Bike Sharing Systems},
   year =          {2024},
